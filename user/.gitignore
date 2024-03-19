@@ -33,3 +33,6 @@ target/
 
 # Outros arquivos e diretórios que você deseja excluir
 HELP.md
+
+# Arquivo de configuração sensível do ambiente de desenvolvimento
+src/main/resources/application-dev.properties
