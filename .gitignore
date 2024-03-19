@@ -1,0 +1,5 @@
+# Arquivos específicos do IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr

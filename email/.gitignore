@@ -1,0 +1,38 @@
+# Arquivos específicos do IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Arquivos específicos do Eclipse
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# Arquivos específicos do Spring Tool Suite (STS)
+.apt_generated
+.sts4-cache
+
+# Arquivos específicos do NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Arquivos específicos do Visual Studio Code
+.vscode/
+
+# Arquivos compilados Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Outros arquivos e diretórios que você deseja excluir
+HELP.md
+
+# Arquivo de configuração sensível do ambiente de desenvolvimento
+src/main/resources/application-dev.properties
